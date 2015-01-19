@@ -15,3 +15,4 @@ For viewing the slides, click on the links below:
  - [Version Control with Git](http://rawgithub.com/khinsen/FdV-ScientificComputing-2015/master/git_introduction.html)
  - [Using Git in collaboration](http://rawgithub.com/khinsen/FdV-ScientificComputing-2015/master/git_for_collaborating.html)
  - [Reproducible workflows](http://rawgithub.com/khinsen/FdV-ScientificComputing-2015/master/reproducible_workflows.html)
+ - [Publishing computer-aided research](http://rawgithub.com/khinsen/FdV-ScientificComputing-2015/master/publishing_computer_aided_research.html)
