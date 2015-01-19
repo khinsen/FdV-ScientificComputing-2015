@@ -14,3 +14,4 @@ For viewing the slides, click on the links below:
  - [The lab notebook of the digital age](http://rawgithub.com/khinsen/FdV-ScientificComputing-2015/master/the_lab_notebook_of_the_digital_age.html)
  - [Version Control with Git](http://rawgithub.com/khinsen/FdV-ScientificComputing-2015/master/git_introduction.html)
  - [Using Git in collaboration](http://rawgithub.com/khinsen/FdV-ScientificComputing-2015/master/git_for_collaborating.html)
+ - [Reproducible workflows](http://rawgithub.com/khinsen/FdV-ScientificComputing-2015/master/reproducible_workflows.html)
